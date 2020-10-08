@@ -8,9 +8,10 @@
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/icofont.min.css">
         <link rel="stylesheet" href="assets/css/template.css">
+        
     <title>Pesquisa</title>
 </head>
-<body>
+<body class="hide-sidebar">
     <header class="header">
         <div class="logo">
         <i class="icofont-travelling mr-2 ml-3">
@@ -42,6 +43,18 @@
             </div>
             <div class="dropdown-content">
                 <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="logout.php">
+                            <i class="icofont-logout mr-2"></i>
+                            Sair
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="logout.php">
+                            <i class="icofont-logout mr-2"></i>
+                            Sair
+                        </a>
+                    </li>
                     <li class="nav-item">
                         <a href="logout.php">
                             <i class="icofont-logout mr-2"></i>
